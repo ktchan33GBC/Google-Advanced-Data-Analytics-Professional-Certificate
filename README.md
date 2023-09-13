@@ -17,7 +17,7 @@
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/VFPG9Q6SQR5F
 
-![Certificate](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/blob/main/img/Specialization_Certificate_Coursera_Machine%20Learning%20and%20Reinforcement%20Learning%20in%20Finance.jpg)
+![Certificate](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google%20Advanced%20Data%20Analytics.jpg)
 
 <!-- USAGE EXAMPLES -->
 
