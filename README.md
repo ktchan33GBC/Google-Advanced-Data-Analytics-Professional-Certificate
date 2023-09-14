@@ -39,6 +39,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 + Presented concise one-page project insights to external stakeholders as the data professional at Salifort Motors.
 
 
+![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/img/result_cv_scores_HR_proj.png)
+
+
 ![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)
-
-
