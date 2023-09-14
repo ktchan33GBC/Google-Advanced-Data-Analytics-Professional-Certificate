@@ -9,10 +9,16 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_Guided_Tour_of_Machine_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_2_Fundamentals_of_Machine_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_3_Reinforcement_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
++ ### [Course_1_Foundations_of_Data_Science](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
++ ### [Course_2_Get_Started_with_Python](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
++ ### [Course_3_Go_Beyond_the_Numbers_Translate_Data_into_Insights](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_4_The_Power_of_Statistics](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
++ ### [Course_5_Regression_Analysis_Simplify_Complex_Data_Relationships](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
++ ### [Course_6_The_Nuts_and_Bolts_of_Machine_Learning](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_7_Google_Advanced_Data_Analytics_Capstone](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
+
+
+
 
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/VFPG9Q6SQR5F
@@ -24,15 +30,15 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 ## Important Project
 
 
-### Algorithmic Trading: Econometric estimation of an Inverse Reinforcement Learning-based market portfolio model - Quantum Equlibrium-Disequlibrium (QED)(STILL UNDER OPTIMIZATION)
-[Notebook](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/blob/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance/Proj_QED_DJI_calibration.ipynb)
+### Providing data-driven suggestions for HR of Salifort Motors to deal with high employee retention rate
+[Notebook](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/Captstone_Proj_Salifort_Motors_employee_retention.ipynb)
 
 
-+ Estimated the IRL model using the DJI portfolio of 30 stocks, first without signals, and then using simple signals such as simple moving averages.
-+ Utilized a function that incorporates Kramers' escape in the regularization term to explore the implications of calibrated model parameters for default probabilities of stocks in our portfolio.
-+ Conducted experiments with exponential weighted (EW) functions to investigate the impact on model calibration and applied to the SPX closing price dataset.
++ Assisted Salifort Motors in predicting employee attrition and identifying departure reasons using predictive models, including regression, Decision Tree, and Random Forest models.
++ Conducted a comparison of feature importance between the Random Forest and Decision Tree models for employee attrition analysis.
++ Presented concise one-page project insights to external stakeholders as the data professional at Salifort Motors.
 
 
-![Result](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/blob/main/img/result_QED_DJI_calibration.png)
+![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)
 
 
