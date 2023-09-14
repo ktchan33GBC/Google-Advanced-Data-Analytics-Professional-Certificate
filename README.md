@@ -9,13 +9,13 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_Foundations_of_Data_Science](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_2_Get_Started_with_Python](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_3_Go_Beyond_the_Numbers_Translate_Data_into_Insights](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_4_The_Power_of_Statistics](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
-+ ### [Course_5_Regression_Analysis_Simplify_Complex_Data_Relationships](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_6_The_Nuts_and_Bolts_of_Machine_Learning](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_7_Google_Advanced_Data_Analytics_Capstone](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
++ ### [Course_1_Foundations_of_Data_Science](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_1_Foundations_of_Data_Science)
++ ### [Course_2_Get_Started_with_Python](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_2_Get_Started_with_Python)
++ ### [Course_3_Go_Beyond_the_Numbers_Translate_Data_into_Insights](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_3_Go_Beyond_the_Numbers_Translate_Data_into_Insights)
++ ### [Course_4_The_Power_of_Statistics](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_4_The_Power_of_Statistics)
++ ### [Course_5_Regression_Analysis_Simplify_Complex_Data_Relationships](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_5_Regression_Analysis_Simplify_Complex_Data_Relationships)
++ ### [Course_6_The_Nuts_and_Bolts_of_Machine_Learning](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_6_The_Nuts_and_Bolts_of_Machine_Learning)
++ ### [Course_7_Google_Advanced_Data_Analytics_Capstone](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course_7_Google_Advanced_Data_Analytics_Capstone)
 
 
 
